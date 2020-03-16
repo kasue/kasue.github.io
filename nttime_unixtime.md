@@ -33,3 +33,10 @@ $nt_time_to_unix_time = ($nt_time - NT_TIME_UNIX_TIME)/10/1000/1000;
 var_dump(date('Y-m-d H:i:s T', $nt_time_to_unix_time));
 
 ```
+
+
+
+### サンプルコード
+
+- [sample_codes/time_nt_unix.php](sample_codes/time_nt_unix.php)
+  - テストコード : [sample_codes/time_nt_unix_testcode.php](sample_codes/time_nt_unix_testcode.php)

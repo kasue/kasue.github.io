@@ -39,4 +39,4 @@ var_dump(date('Y-m-d H:i:s T', $nt_time_to_unix_time));
 
 ### サンプルコード
 
-- [kasue/win-utils-for-php : time_nt_unix.php](https://github.com/kasue/win-utils-for-php/blob/master/src/time_nt_unix.php)
+- [kasue/php-nt-time : kasue\nt_time\time_nt_unix.php](https://github.com/kasue/php-nt-time/blob/master/src/time_nt_unix.php)
